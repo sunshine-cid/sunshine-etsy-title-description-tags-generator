@@ -11,7 +11,7 @@ import requests
 from bardapi.constants import SESSION_HEADERS
 
 default_descriptor = "A tshirt with a body building shark with big arms"
-default_ai_title_request = "Please give me an Esty product title for "
+default_ai_title_request = "Please give me an Esty product title of 100 and 140 characters for "
 default_ai_description_request = "Please give me an Esty product description for "
 default_ai_tags = "Please give me 20 Esty tags no more than 20 characters long in csv format for "
 
