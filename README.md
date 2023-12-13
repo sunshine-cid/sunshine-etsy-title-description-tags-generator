@@ -13,4 +13,13 @@ For the time being, in 64-bit Windows, a special version of BardAPI is required.
 Otherwise you can use the standard:
 >pip install bardapi
 
-From there usage should be as simple as runniing main.py and inputting the necessary cookie values from an incognito Bard session
+From the command line navigate to where you've downloaded the main.py file nad execute it with 
+>python main.py
+
+![EtsyBard](https://github.com/sunshine-cid/sunshine-etsy-title-description-tags-generator/assets/7285352/3f45cfe2-bab8-4683-bf19-eaf6c53e842d)
+
+From there login to the bard interface at https://bard.google.com in an incognito window.
+
+In Chrome hit F12, select Application, on the left navigate to Cookies under storage. Select bard.google.com. Inside you should find the associated text strings you need to copy into the appropriate text fields.
+
+In Firefox hit F12, select Storage. Inside select Cookies, and select bard.google.com. Inside you should find the associated text strings you need to copy into the appropriate text fields.
