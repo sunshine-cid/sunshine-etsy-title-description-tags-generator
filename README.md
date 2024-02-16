@@ -1,3 +1,5 @@
+# Be aware that Google transitioning Bard to Gemini has (and breaking bardapi) rendered this project mostly inoperable. I will update the project once we get a working API for Google Gemini 
+
 # sunshine-etsy-title-description-tags-generator
 This program is made to simplify the process of requesting Google Bard responses for Etsy products. It take a standard AI descriptor and returns potential product titles, descriptions, and etsy tags
 
